@@ -1,0 +1,1805 @@
+      html {
+        height: 100%;
+        width: 50%;
+      }
+      *{
+        overflow-x: hidden;
+      }
+      body {
+        font-family: 'Open Sans', serif;
+        height: 100%;
+        width: 100%;
+        -webkit-font-smoothing: antialiased;
+        overflow: -moz-scrollbars-none;
+        -ms-overflow-style: none;
+      }
+      .kenzy {
+        display: block;
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        overflow-x: auto;
+        overflow-y: auto;
+        background-color: rgba(255, 255, 255, 1);
+        width: 1920px;
+        height: 5014px;
+      }
+      .kenzy .img1 {
+        position: absolute;
+        box-sizing: border-box;
+        background-image: url("assets/img20220908Wa0059463ea57a.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: solid;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: solid;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: solid;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 1920px;
+        height: 1079px;
+      }
+      .kenzy .iAmKenzy {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(255, 255, 255, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 99px;
+        font-weight: 700;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 566px;
+        height: 132px;
+        left: 677px;
+        top: 757px;
+
+      }
+
+      .kenzy .imAContentCreator {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(255, 255, 255, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 42px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 478px;
+        height: 56px;
+        left: 721px;
+        top: 889px;
+      }
+
+      .kenzy .line1 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        stroke: rgba(255, 255, 255, 1);
+        stroke-width: 2px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 473px;
+        height: 2px;
+        left: 723.50px;
+        top: 952.50px;
+      }
+
+      .kenzy .quote {
+        position: absolute;
+        box-sizing: content-box;
+        background-image: url("assets/quote.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 1920px;
+        height: 464px;
+        top: 1079px;
+      }
+
+      .kenzy .rectangle3 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(6, 59, 148, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 648px;
+        height: 127px;
+        top: 1079px;
+
+      }
+
+      .kenzy .rectangle4 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(49, 126, 255, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 1272px;
+        height: 127px;
+        left: 648px;
+        top: 1079px;
+      }
+      .kenzy .kenzy {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(255, 255, 255, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 73px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 216px;
+        height: 97px;
+        left: 324px;
+        top: 1094px;
+
+      }
+      .kenzy .home {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(255, 255, 255, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 28px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 80px;
+        height: 37px;
+        left: 1199px;
+        top: 1127px;
+
+      }
+
+      .kenzy .about {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(255, 255, 255, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 28px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 89px;
+        height: 37px;
+        left: 1342px;
+        top: 1127px;
+
+      }
+
+      .kenzy .contact {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(255, 255, 255, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 28px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 121px;
+        height: 37px;
+        left: 1495px;
+        top: 1127px;
+
+      }
+
+      .kenzy .img2 {
+        position: absolute;
+        box-sizing: content-box;
+        background-image: url("assets/img20220908Wa0059.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 0.449;
+        background-color: rgba(255, 255, 255, 0);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 1920px;
+        height: 337px;
+        top: 1206px;
+      }
+
+      .kenzy .content-1 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(255, 255, 255, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 48px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 988px;
+        height: 64px;
+        left: 468px;
+        top: 1328px;
+      }
+      .kenzy .content-1 .content-2 {
+        color: rgba(255, 255, 255, 1);
+        font-weight: 400;
+        font-style: normal;
+        font-size: 48px;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+      }
+      .kenzy .content-1 .content-3 {
+        color: rgba(68, 113, 255, 1);
+        font-weight: 400;
+        font-style: normal;
+        font-size: 48px;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+      }
+
+      .kenzy .content-1 .content-4 {
+        color: rgba(255, 255, 255, 1);
+        font-weight: 400;
+        font-style: normal;
+        font-size: 48px;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+      }
+
+      .kenzy .rectangle6 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(239, 239, 239, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 1920px;
+        height: 529px;
+        top: 2284px;
+      }
+      .kenzy .aboutKenzy {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(68, 113, 255, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 57px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 366px;
+        height: 76px;
+        left: 844px;
+        top: 1645px;
+    }
+      .kenzy .line2 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 1px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 66px;
+        height: 1px;
+        left: 652px;
+        top: 1755px;
+
+      }
+
+      .kenzy .line3 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 1px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 66px;
+        height: 1px;
+        left: 1337px;
+        top: 1755px;
+
+      }
+
+      .kenzy .good-Content {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        letter-spacing: 2.11px;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 27px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 572px;
+        height: 36px;
+        left: 741.50px;
+        top: 1732.48px;
+      }
+      .kenzy .group2 {
+        display: block;
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        overflow-x: unset;
+        overflow-y: unset;
+        background-color: transparent;
+        width: 430px;
+        height: 126px;
+        left: 745px;
+        top: 3318px;
+      }
+      .kenzy .group2 .contactKenzy {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(68, 113, 255, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 57px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 430px;
+        height: 76px;
+      }
+
+      .kenzy .group2 .line6 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 1px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 66px;
+        height: 1px;
+        left: 33px;
+        top: 110px;
+
+      }
+
+      .kenzy .group2 .line5 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 1px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 66px;
+        height: 1px;
+        left: 330px;
+        top: 110px;
+      }
+      .kenzy .group2 .hereIAm {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        letter-spacing: 2.11px;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 27px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 143px;
+        height: 36px;
+        left: 143px;
+        top: 90px;
+      }
+      .kenzy .rectangle7 {
+        position: absolute;
+        box-sizing: border-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: solid;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: solid;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: solid;
+        border-top-width: 1px;
+        -webkit-filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        width: 82.75px;
+        height: 82.75px;
+        left: 449.60px;
+        top: 1864.61px;
+
+      }
+
+      .kenzy .rectangle8 {
+        position: absolute;
+        box-sizing: border-box;
+        -ms-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: solid;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: solid;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: solid;
+        border-top-width: 1px;
+        -webkit-filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        width: 82.75px;
+        height: 82.75px;
+        left: 790.78px;
+        top: 1869.61px;
+      }
+
+      .kenzy .rectangle9 {
+        position: absolute;
+        box-sizing: border-box;
+        -ms-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: solid;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: solid;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: solid;
+        border-top-width: 1px;
+        -webkit-filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        width: 82.75px;
+        height: 82.75px;
+        left: 1131.12px;
+        top: 1874.11px;
+      }
+      .kenzy .rectangle10 {
+        position: absolute;
+        box-sizing: border-box;
+        -ms-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: solid;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: solid;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: solid;
+        border-top-width: 1px;
+        -webkit-filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        width: 82.75px;
+        height: 82.75px;
+        left: 1473.14px;
+        top: 1864.61px;
+      }
+      .kenzy .recording {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 25px;
+        font-weight: 700;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 144px;
+        height: 33px;
+        left: 419px;
+        top: 1996px;
+      }
+      .kenzy .first-step {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;        
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 18px;
+        font-weight: 300;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 292px;
+        height: 48px;
+        left: 345px;
+        top: 2051px;
+      }
+
+      .kenzy .editingisthe {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;              
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 18px;
+        font-weight: 300;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 284px;
+        height: 48px;
+        left: 690px;
+        top: 2051px;
+      }
+
+      .kenzy .renderingisthe {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;              
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 18px;
+        font-weight: 300;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 292px;
+        height: 48px;
+        left: 1027px;
+        top: 2051px;
+    }     
+      .kenzy .uploadingisthe {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;               
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 18px;
+        font-weight: 300;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 310px;
+        height: 72px;
+        left: 1359px;
+        top: 2051px;
+      }
+
+      .kenzy .editing {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 25px;
+        font-weight: 700;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 100px;
+        height: 33px;
+        left: 782px;
+        top: 1996px;
+      }
+      .kenzy .rendering {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;      
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 25px;
+        font-weight: 700;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 143px;
+        height: 33px;
+        left: 1101px;
+        top: 1996px;
+      }
+      .kenzy .uploading {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;  
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 25px;
+        font-weight: 700;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 129px;
+        height: 33px;
+        left: 1463px;
+        top: 1996px;
+      }
+
+      .kenzy .arrow {
+        position: absolute;
+        box-sizing: content-box;
+        background-image: url("assets/arrow.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 52px;
+        height: 42px;
+        left: 806px;
+        top: 1885px;
+      }
+
+      .kenzy .pc {
+        position: absolute;
+        box-sizing: content-box;
+        background-image: url("assets/pc.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1;        
+        background-color: rgba(255, 255, 255, 0);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 48px;
+        height: 47px;
+        left: 469px;
+        top: 1874px;
+      }
+      .kenzy .ss2 {
+        position: absolute;
+        box-sizing: content-box;
+        background-image: url("assets/screenshot20221103101107.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1;                
+        background-color: rgba(255, 255, 255, 0);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 45px;
+        height: 48px;
+        left: 1149.17px;
+        top: 1888.50px;
+      }
+      .kenzy .ss3 {
+        position: absolute;
+        box-sizing: content-box;
+        background-image: url("assets/screenshot20221103101243.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1;                
+        background-color: rgba(255, 255, 255, 0);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 52px;
+        height: 53px;
+        left: 1489px;
+        top: 1868px;
+      }
+      .kenzy .skill {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;              
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 40px;
+        font-weight: 700;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 242px;
+        height: 53px;
+        left: 1115px;
+        top: 2352px;
+      }
+      .kenzy .line4 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;              
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 4px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 168px;
+        height: 4px;
+        left: 1115px;
+        top: 2427px;
+      }
+      .kenzy .adobe-ae {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;       
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 20px;
+        font-weight: 700;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        width: 300px;
+        height: 300px;
+        left: 1115px;
+        top: 2568px;
+      }
+      .kenzy .adobe-ps {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;       
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 20px;
+        font-weight: 700;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        width: 300px;
+        height: 300px;
+        left: 1115px;
+        top: 2652px;
+      }
+      .kenzy .rectangle11 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;        
+        background-color: rgba(0, 109, 255, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 643px;
+        height: 24px;
+        left: 1115px;
+        top: 2525px;
+      }
+      .kenzy .adobe-pro {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;       
+        background-color: rgba(255, 255, 255, 0);
+        text-align: left;
+        color: rgba(0, 0, 0, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 20px;
+        font-weight: 700;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        width: 300px;
+        height: 80px;
+        left: 1115px;
+        top: 2485px;
+      }
+      .kenzy .rectangle12 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(0, 109, 255, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 643px;
+        height: 24px;
+        left: 1115px;
+        top: 2614px;
+      }
+
+      .kenzy .rectangle13 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(0, 109, 255, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 643px;
+        height: 24px;
+        left: 1115px;
+        top: 2703px;
+      }
+
+      .kenzy .rectangle14 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(198, 198, 198, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 1920px;
+        height: 408px;
+        top: 2813px;
+      }
+      .kenzy .group1 {
+        display: block;
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        overflow-x: unset;
+        overflow-y: unset;
+        background-color: transparent;
+        width: 306px;
+        height: 105px;
+        left: 807px;
+        top: 2965px;
+      }
+      .kenzy .group1 .rectangle15 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(0, 114, 212, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 306px;
+        height: 105px;
+      }
+
+      .kenzy .group1 .get-in {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        letter-spacing: -0.44px;
+        color: rgba(255, 255, 255, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 40px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 256px;
+        height: 53px;
+        left: 25px;
+        top: 26px;
+      }
+
+      .kenzy .group4 {
+        display: block;
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;               
+        overflow-x: unset;
+        overflow-y: unset;
+        background-color: transparent;
+        width: 1323.50px;
+        height: 504.50px;
+        left: 299px;
+        top: 3546px;
+      }
+      .kenzy .group4 .message {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;                
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        letter-spacing: -0.35px;
+        color: rgba(174, 174, 174, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 32px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 192px;
+        height: 43px;
+        left: 13px;
+        top: 177px;
+      }
+      .kenzy .group4 .group3 {
+        display: block;
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;               
+        overflow-x: unset;
+        overflow-y: unset;
+        background-color: transparent;
+        width: 1323px;
+        height: 504px;
+      }
+      .kenzy .group4 .group3 .name {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        letter-spacing: -0.35px;
+        color: rgba(174, 174, 174, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 32px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 84px;
+        height: 43px;
+        left: 9.50px;
+      }
+      .kenzy .group4 .group3 .email {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;              
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        letter-spacing: -0.35px;
+        color: rgba(174, 174, 174, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 32px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 74px;
+        height: 43px;
+        left: 488px;
+      }
+
+      .kenzy .group4 .group3 .subject {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;       
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        letter-spacing: -0.35px;
+        color: rgba(174, 174, 174, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 32px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 102px;
+        height: 43px;
+        left: 943px;
+      }
+      .kenzy .group4 .group3 .line7 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 0.469;              
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 1px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 380px;
+        height: 1px;
+        top: 49px;
+      }
+      .kenzy .group4 .group3 .line10 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 0.469;              
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 1px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 1323.50px;
+        height: 1px;
+        top: 504px;
+      }
+      .kenzy .group4 .group3 .line8 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 0.469; 
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 1px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 380px;
+        height: 1px;
+        left: 474px;
+        top: 49px;
+      }
+
+      .kenzy .group4 .group3 .line9 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 0.469;
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 1px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 380px;
+        height: 1px;
+        left: 943px;
+        top: 49px;
+      }
+      .kenzy .rectangle16 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;       
+        background-color: rgba(0, 114, 212, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 1324px;
+        height: 109px;
+        left: 299px;
+        top: 4128px;
+      }
+      .kenzy .sendMessage {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        letter-spacing: -0.43px;
+        color: rgba(255, 255, 255, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 39px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 270px;
+        height: 52px;
+        left: 826px;
+        top: 4157px;
+      }
+      .kenzy .rectangle17 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;   
+        background-color: rgba(25, 111, 194, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 1920px;
+        height: 211px;
+        top: 4338px;
+      }
+      .kenzy .group5 {
+        display: block;
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        overflow-x: unset;
+        overflow-y: unset;
+        background-color: transparent;
+        width: 351px;
+        height: 117px;
+        left: 784px;
+        top: 4385px;
+      }
+
+      .kenzy .group5 .rectangle19 {
+        position: absolute;
+        box-sizing: border-box;
+        -ms-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+        opacity: 1;
+        background-color: rgba(25, 111, 194, 1);
+        border-bottom-color: rgba(255, 255, 255, 1);
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        border-left-color: rgba(255, 255, 255, 1);
+        border-left-style: solid;
+        border-left-width: 1px;
+        border-right-color: rgba(255, 255, 255, 1);
+        border-right-style: solid;
+        border-right-width: 1px;
+        border-top-color: rgba(255, 255, 255, 1);
+        border-top-style: solid;
+        border-top-width: 1px;
+        -webkit-filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        width: 82.75px;
+        height: 82.75px;
+        left: 17.14px;
+        top: 17.14px;
+      }
+      .kenzy .group5 .rectangle20 {
+        position: absolute;
+        box-sizing: border-box;
+        -ms-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+        opacity: 1;
+        background-color: rgba(25, 111, 194, 1);
+        border-bottom-color: rgba(255, 255, 255, 1);
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        border-left-color: rgba(255, 255, 255, 1);
+        border-left-style: solid;
+        border-left-width: 1px;
+        border-right-color: rgba(255, 255, 255, 1);
+        border-right-style: solid;
+        border-right-width: 1px;
+        border-top-color: rgba(255, 255, 255, 1);
+        border-top-style: solid;
+        border-top-width: 1px;
+        -webkit-filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        width: 82.75px;
+        height: 82.75px;
+        left: 134.17px;
+        top: 17.14px;
+      }
+      .kenzy .group5 .rectangle21 {
+        position: absolute;
+        box-sizing: border-box;
+        -ms-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+        opacity: 1;
+        background-color: rgba(25, 111, 194, 1);
+        border-bottom-color: rgba(255, 255, 255, 1);
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        border-left-color: rgba(255, 255, 255, 1);
+        border-left-style: solid;
+        border-left-width: 1px;
+        border-right-color: rgba(255, 255, 255, 1);
+        border-right-style: solid;
+        border-right-width: 1px;
+        border-top-color: rgba(255, 255, 255, 1);
+        border-top-style: solid;
+        border-top-width: 1px;
+        -webkit-filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        filter: drop-shadow(0px 5px 0px rgba(0, 0, 0, 0.16));
+        width: 82.75px;
+        height: 82.75px;
+        left: 251.19px;
+        top: 17.14px;
+      }
+      .kenzy .group9 {
+        display: block;
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;        
+        overflow-x: unset;
+        overflow-y: unset;
+        background-color: transparent;
+        width: 1919.50px;
+        height: 117px;
+        top: 4897px;
+      }
+      .kenzy .group9 .group8 {
+        display: block;
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;              
+        overflow-x: unset;
+        overflow-y: unset;
+        background-color: transparent;
+        width: 1919.50px;
+        height: 117px;
+      }
+      .kenzy .group9 .group8 .rectangle18 {
+        position: absolute;
+        box-sizing: content-box;
+        -ms-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+        opacity: 1;
+        background-color: rgba(0, 0, 0, 1);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 82.75px;
+        height: 82.75px;
+        left: 918.12px;
+        top: 17.14px;
+      }
+      .kenzy .group9 .group8 .line11 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 0.42;
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 1px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 901px;
+        height: 1px;
+        top: 58px;
+      }
+      .kenzy .group9 .group8 .line12 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 0.42;              
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 1px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 901px;
+        height: 1px;
+        left: 1018.50px;
+        top: 58px;
+      }
+      .kenzy .group9 .group8 .group6 {
+        display: block;
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;       
+        overflow-x: unset;
+        overflow-y: unset;
+        background-color: transparent;
+        width: 47px;
+        height: 46.30px;
+        left: 936px;
+        top: 35.38px;
+      }
+
+      .kenzy .group9 .group8 .group6 .line13 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;       
+        stroke: rgba(255, 255, 255, 1);
+        stroke-width: 2px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 25.11px;
+        height: 32.08px;
+        left: -0.80px;
+        top: -0.61px;
+      }
+      .kenzy .group9 .group8 .group6 .line16 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;       
+        stroke: rgba(255, 255, 255, 1);
+        stroke-width: 2px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 25.11px;
+        height: 32.08px;
+        left: -0.80px;
+        top: 14.83px;
+      }
+      .kenzy .group9 .group8 .group6 .line14 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;   
+        stroke: rgba(255, 255, 255, 1);
+        stroke-width: 2px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 25.11px;
+        height: 32.08px;
+        left: 22.72px;
+        top: -0.61px;
+      }
+
+      .kenzy .group9 .group8 .group6 .line15 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        stroke: rgba(255, 255, 255, 1);
+        stroke-width: 2px;
+        stroke-linecap: butt;
+        box-shadow: none;
+        width: 25.11px;
+        height: 32.08px;
+        left: 22.72px;
+        top: 14.83px;
+      }
+      .kenzy .image1 {
+        position: absolute;
+        box-sizing: content-box;
+        background-image: url("assets/image1.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1;      
+        background-color: rgba(255, 255, 255, 0);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 44px;
+        height: 49px;
+        left: 819px;
+        top: 4419px;
+      }
+      .kenzy .image2 {
+        position: absolute;
+        box-sizing: content-box;
+        background-image: url("assets/image2.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1;               
+        background-color: rgba(255, 255, 255, 0);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 55px;
+        height: 47px;
+        left: 933px;
+        top: 4419px;
+      }
+      .kenzy .image3 {
+        position: absolute;
+        box-sizing: content-box;
+        background-image: url("assets/image3.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 1;       
+        background-color: rgba(255, 255, 255, 0);
+        border-bottom-color: rgba(112, 112, 112, 1);
+        border-bottom-style: none;
+        border-bottom-width: 1px;
+        border-left-color: rgba(112, 112, 112, 1);
+        border-left-style: none;
+        border-left-width: 1px;
+        border-right-color: rgba(112, 112, 112, 1);
+        border-right-style: none;
+        border-right-width: 1px;
+        border-top-color: rgba(112, 112, 112, 1);
+        border-top-style: none;
+        border-top-width: 1px;
+        box-shadow: none;
+        width: 48px;
+        height: 44px;
+        left: 1054px;
+        top: 4419px;
+      }
+
+      .kenzy .home-2 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        letter-spacing: -0.43px;
+        color: rgba(117, 117, 117, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 39px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 110px;
+        height: 52px;
+        left: 696px;
+        top: 4708px;
+      }
+      .kenzy .about-last{
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;               
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        letter-spacing: -0.43px;
+        color: rgba(117, 117, 117, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 39px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 122px;
+        height: 52px;
+        left: 871px;
+        top: 4708px;
+      }
+      .kenzy .contact-2 {
+        position: absolute;
+        box-sizing: content-box;
+        opacity: 1;       
+        background-color: rgba(255, 255, 255, 0);
+        text-align: center;
+        letter-spacing: -0.43px;
+        color: rgba(117, 117, 117, 1);
+        -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+        font-size: 39px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: 'Segoe UI', Arial;
+        text-decoration: none;
+        box-shadow: none;
+        overflow-x: unset;
+        overflow-y: unset;
+        white-space: pre;
+        width: 166px;
+        height: 52px;
+        left: 1058px;
+        top: 4708px;
+      }
